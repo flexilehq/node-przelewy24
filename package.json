@@ -2,16 +2,18 @@
   "name": "przelewy24",
   "version": "1.0.1",
   "description": "Przelewy24 wrapper for Node.js (ES6+)",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "pieczorx",
+  "author": "Flexile (flexile.io)",
   "license": "ISC",
   "dependencies": {
+    "bluebird": "^3.5.1",
     "md5": "^2.2.1",
     "query-string": "^6.1.0",
-    "request": "^2.87.0"
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
   },
   "repository": "github:flexilehq/przelewy24"
 }
