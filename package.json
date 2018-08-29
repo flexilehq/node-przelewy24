@@ -1,6 +1,6 @@
 {
-  "name": "przelewy24",
-  "version": "1.0.1",
+  "name": "@flexilehq/przelewy24",
+  "version": "1.0.2",
   "description": "Przelewy24 wrapper for Node.js (ES6+)",
   "main": "src/index.js",
   "scripts": {
